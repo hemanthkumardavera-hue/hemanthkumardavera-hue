@@ -1,9 +1,8 @@
-<h1 align="center">Hi 👋, I'm Hemanth Kumar Davera</h1>
+<h1 align="center">Hi, I'm Hemanth Kumar Davera</h1>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineer;Java+%26;Always+learning+new+things" alt="Typing SVG" />
-  </a>
+  <b>SDET / Test Automation Engineer</b><br>
+  UI · API · Database automation | Java · Selenium · Playwright · REST Assured · Jenkins
 </p>
 
 <p align="center">
@@ -13,58 +12,72 @@
 
 ---
 
-### 🚀 About Me
+### About Me
 
-- 🔭 I’m currently working on building robust backend systems and web applications.
-- 🌱 I’m currently learning advanced cloud architecture and system design.
-- 👯 I’m looking to collaborate on open-source Java and TypeScript projects.
-- 💬 Ask me about **Java, TypeScript, Selenium, and API development**.
-- 📫 How to reach me: **hemanthkumardavera@gmail.com**
+I build the safety net that lets products ship fast without breaking.
 
----
-
-### 🛠️ Tech Stack
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,selenium,js,html,css,react,git,github,docker,mysql,postman,vscode&perline=8" />
-  </a>
-</p>
+- 5+ years in QA automation across web, mobile, API and database testing
+- Worked on large consumer products: Meta Ads, Pages, Business Suite and Privacy platforms
+- Built Java/Selenium frameworks (+40% regression coverage, -15% flakiness) and a Playwright (JavaScript) framework from scratch
+- Open to QA Automation Engineer, SDET and Automation Test Engineer roles (Hyderabad, hybrid or remote)
 
 ---
 
-### 📊 GitHub Analytics & Activity
+### Featured Project
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hemanthkumardavera-hue&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hemanthkumardavera-hue&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180" />
-</p>
+#### [Selenium Hybrid Framework (Java)](https://github.com/hemanthkumardavera-hue/selenium-hybrid-framework-java)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hemanthkumardavera-hue&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages" />
-</p>
+An enterprise-style hybrid test automation framework covering:
 
-<p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=hemanthkumardavera-hue&theme=tokyonight&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-  </a>
-</p>
+- UI automation (Selenium WebDriver, TestNG)
+- API automation (REST Assured)
+- Database validation (JDBC, MySQL)
+- Authentication framework
+- Data-driven testing
+- Cross-browser architecture
+- Jenkins CI/CD with pipeline-as-code (Jenkinsfile)
+- Logging (Log4j2) and reporting (Extent Reports)
 
 ---
 
-### 🐍 Interactive Contribution Snake
+### Tech Stack
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hemanthkumardavera-hue/hemanthkumardavera-hue/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hemanthkumardavera-hue/hemanthkumardavera-hue/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hemanthkumardavera-hue/hemanthkumardavera-hue/output/github-contribution-grid-snake.svg">
-  </picture>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white" alt="Selenium">
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" alt="Playwright">
+  <img src="https://img.shields.io/badge/TestNG-FF6F00?style=for-the-badge" alt="TestNG">
+  <img src="https://img.shields.io/badge/REST%20Assured-0A7E8C?style=for-the-badge" alt="REST Assured">
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apachemaven&logoColor=white" alt="Maven">
+  <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins">
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
 </p>
 
 ---
 
-### 💡 Random Dev Quote
+### Experience Snapshot
+
+| Area | What I do |
+|---|---|
+| UI automation | Selenium (Java) and Playwright (JavaScript), cross-browser |
+| API testing | REST Assured, Postman, Swagger, GraphQL |
+| Database testing | SQL, JDBC, MySQL validation |
+| CI/CD | Jenkins pipelines, Maven, Git |
+| Quality process | Test strategy, regression suites, A/B experiment testing, requirement traceability |
+| AI-assisted QA | GitHub Copilot, ChatGPT for faster scripting and test design |
+
+---
+
+### What's Next
+
+I'm adding new automation projects (API and Playwright) to this profile. Check the repositories tab for updates.
+
+---
+
 <p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
+  Want to talk testing or automation? Reach me at <a href="mailto:hemanthkumardavera@gmail.com">hemanthkumardavera@gmail.com</a>
 </p>
